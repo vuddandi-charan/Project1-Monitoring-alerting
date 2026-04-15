@@ -1,0 +1,15 @@
+                PROMETHEUS DOWNLOAD LINK
+https://prometheus.io/download/?utm_source=chatgpt.com                           prometheus download link
+
+tar -xvf prometheus-3.5.1.linux-amd64.tar.gz
+cd prometheus-3.5.1.linux-amd64
+./prometheus --config.file=prometheus.yml
+
+after downloading both links inside prometheus we need to do PROMETHEUS.YML and ALERT.RULES.YML  need to copy and paste above files
+
+                 NODE EXPORTER DOWNLOAD LINK
+ wget https://github.com/prometheus/node_exporter/releases/download/v1.10.2/node_exporter-1.10.2.linux-amd64.tar.gz
+
+tar -xvf node_exporter-1.10.2.linux-amd64.tar.gz
+cd node_exporter-1.10.2.linux-amd64
+./node_exporter
