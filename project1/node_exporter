@@ -1,4 +1,1 @@
 https://github.com/prometheus/node_exporter/releases?utm_source=chatgpt.com     node eporter download link
-https://prometheus.io/download/?utm_source=chatgpt.com                           prometheus download link
-
-after downloading both links inside prometheus we need to do PROMETHEUS.YML and ALERT.RULES.YML  need to copy and paste above files
